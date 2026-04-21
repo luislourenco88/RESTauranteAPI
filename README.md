@@ -56,7 +56,14 @@ Repita até ter 20 mesas
 💡 Sugestão:
 
 Alterne quantidade de lugares: 2, 4, 6
-Todas começam como "livre"
+
 
 ### Passo 6: Obter o endpoint
 Copie o endpoint e insira no código javascript
+
+## ULTRA DESAFIO
+
+Quer um maior desafio? Vamos inserir as seguintes melhorias:
+Exibir a quantidade de vagas disponiveis em casa mesa quando mover o mouse por cima.
+Acrescentar um campo para indicar indicar quantas vagas serão reeservadas para a mesa. Com isso o sistema irá indicar quais mesas possuem vagas suficientes. Para melhor gerenciamento.
+Todas começam como "livre"
